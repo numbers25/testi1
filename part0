@@ -1,0 +1,6 @@
+kauppalista
+appelsiini
+mandariini
+p { 
+    color: red;
+}
